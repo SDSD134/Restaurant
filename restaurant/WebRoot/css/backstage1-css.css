@@ -1,0 +1,64 @@
+.loge{width:100%; height: 130px; float: left; background: url("../image/headerback.png");}
+.leftpart{float: left}
+.rightpart{float: left}
+.font{ font-size: 65px; float: left; line-height: 130px; margin-left: 50px; color:rgba(161,122,13,0.92)}
+.fonta{width: auto; height: 130px; float: left;line-height: 130px;margin-left: 300px;}
+.leftpart{width: 250px; height: 500px; background:rgba(161,122,13,0.03);float: left;}
+.list{width: 200px; height: auto; float: left; margin-left: 0px; margin-top: 40px; list-style: none;}
+li{ margin-top: 10px;}
+.partright{width:1069px;height: auto; float: right;}
+.table_message{width: 800px; height: auto; margin-left: 70px; margin-top: 30px;float: left;}
+.table_name{width: 120px; height: 160px; float:left; margin-left: 50px; margin-top: 20px; background-color: orange  }
+.table_img{width: 100px; height: 100px; margin-left: 10px;}
+.table_num{ float: left; font-size: 13px;width: 120px; height: auto;}
+.table_add{width:80px;
+height: 25px;
+float: right;
+}
+.mainone{width:450px; height:50px; float: left; border: black solid 1px; }
+.tablemain{width: 470px; height: auto; float: left; margin-top: 50px; margin-left:100px; }
+.row2{width:450px; height: 25px; border-bottom: solid 1px black; float: left}
+.a1{height: 25px;
+    padding-left: 20px;
+    float: left;
+    width: auto;
+    font-size: 15px; }
+.a2{height: 25px;
+    padding-left: 37px;
+    float: left;
+    width: 75px;
+    font-size: 15px;}
+.row1{width:450px; height: 25px; float: left}
+.orderxq{float:right;width: 100px; height:10px; }
+.table_order{height: 30px;
+width: 130px;
+font-size: 15px;}
+.table_messag{width: 800px; height: auto;float: left;}
+.costumer_message{width: 900px; height: auto; margin-left:90px;margin-top: 30px; float: left; }
+.costumer_inquire{width: 500px; height: 50px; margin-left: 200px;}
+.costumer_tab{width: 280px; height: 50px; border:1px solid black; float: left;}
+.classifycos{width: 280px; height: 24px; border-bottom :black 1px solid ; float: left;}
+.t1{width: 99px; height: 25px;}
+.t2{width: 99px; height: auto;}
+.costumertable{width:500px; height:auto ;float:left ;margin-top:100px;}
+.yonghudingdan{float:left; }
+.table_imgadd{width: 25px; height: 30px; margin-left: 45px;}
+.tableadd{margin-top: 80px;float: left}
+.table_id{float: left; margin-top: 5px;}
+.table_table{width:  130px; height: auto; float: left;}
+.tnum{width: 20px; height: 20px; background:none  }
+.tabler{width: 130px ; height: 80px ; margin-top:90px;}
+.people{width: 50px; height: 20px; background: none}
+.tablefenl{margin-top:0; font-size: 15px;}
+.aaa{width: 120px;
+    height: 90px;}
+.usermaina{width:500px; height:auto;  border: solid 1px black; float: left; }
+.mainbar1{float: left;width:100%;hight: auto;}
+.user_maina{width: 500px; height: 30px; float: left; border-bottom: solid black 1px;}
+.user_mainb{width: 500px; height: 30px; float: left; border-bottom: solid black 1px;}
+.u1{width: 75px; height: 30px; float: left; margin-left: 20px;}
+.costumer_tab{width:570px; height:auto;  border: solid 1px black; float: left; }
+.rowa{width: 570px; height: 30px; float: left; border-bottom: solid black 1px;}
+.rowb{width: 570px; height: 30px; float: left; }
+.t1{width: 75px; height: 30px; float: left; margin-left: 20px;}
+

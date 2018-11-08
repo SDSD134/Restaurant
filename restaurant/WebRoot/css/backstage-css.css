@@ -1,0 +1,196 @@
+.loge{width:100%; height: 130px;  background: url("../image/headerback.png"); position: relative}
+.logo0{ height: 130px ; position: relative;width: 1200px;}
+.leftpart{float: left}
+.rightpart{float: left}
+.font{ font-size: 65px; float: left;  line-height: 130px;margin-left: 50px;  color:rgba(161,122,13,0.92); position: relative}
+.fonta{width: auto; height: 130px; float: left;line-height: 130px;margin-left: 300px;}
+.leftpart{width: 250px; height: 600px; background:rgba(161,122,13,0.03);}
+.list{width: 200px; height: auto; float: left; margin-left: 0px; margin-top: 40px; list-style: none;}
+li{ margin-top: 10px;}
+.partright{height: 800px;
+    width: 900px;
+    left: 300px;
+    margin-left: 300px;}
+.table_message{width: 800px; height: auto; margin-left: 70px; margin-top: 30px;float: left;}
+.table_name{width: 120px; height: 160px; float:left; margin-left: 50px; margin-top: 20px; background-color: pink  }
+.table_img{width: 100px; height: 100px; margin-left: 10px;}
+.table_num{ float: left; font-size: 13px;width: 120px; height: auto;}
+.table_add{width:80px;
+height: 25px;
+float: right;
+}
+.mainone{width:490px; height:50px; float: left; border: black solid 1px;  border-bottom: none}
+.tablemain{width: 490px; height: auto; float: left; margin-top: 50px; margin-left:100px; }
+.row2{width:480px; height: 25px; border-bottom: solid 1px black; float: left}
+.a1{height: 25px;
+    padding-left: 20px;
+    float: left;
+    width: auto;
+    font-size: 15px; }
+.a2{height: 25px;
+    margin-left: 25px;
+    float: left;
+    width: 50px;
+    font-size: 15px;overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+.row1{width:480px; height: 25px; float: left;border-bottom: solid 1px black; }
+.orderxq{float:right;width: 100px; height:10px; }
+.table_order{height: 30px;
+width: 130px;
+font-size: 15px;}
+.table_messag{width: 800px; height: auto;float: left;}
+.costumer_message{width: 900px; height: auto; margin-left:90px;margin-top: 30px; float: left; }
+.costumer_inquire{width: 500px; height: 50px; margin-left: 200px;}
+.costumer_tab{width: 280px; height: 50px; border:1px solid black; float: left;}
+.classifycos{width: 280px; height: 24px; border-bottom :black 1px solid ; float: left;}
+.t1{width: 99px; height: 25px;}
+.t2{width: 99px; height: auto;}
+.costumertable{width:500px; height:auto ;float:left ;margin-top:100px; margin-left: -200px;}
+.yonghudingdan{float:left; }
+.table_imgadd{width: 25px; height: 30px; margin-left: 45px;}
+.tableadd{margin-top: 80px;float: left}
+.table_id{float: left; margin-top: -2px;}
+.table_table{width:  130px; height: auto; float: left;}
+.tnum{width: 20px; height: 20px; background:none  }
+.tabler{width: 130px ; height: 80px ; margin-top:90px;}
+.people{width: 50px; height: 20px; background: none}
+.tablefenl{margin-top:0; font-size: 15px;}
+.aaa{width: 120px;
+    height: 110px; float: left; margin-top: 60px;}
+.usermaina{width:500px; height:auto;  border: solid 1px black; float: left; }
+.mainbar1{float: left;width:100%;hight: auto;}
+.user_maina{width: 500px; height: 30px; float: left; border-bottom: solid black 1px;}
+.user_mainb{width: 500px; height: 30px; float: left; border-bottom: solid black 1px;}
+.u1{width: 75px; height: 30px; float: left; margin-left: 20px;}
+.costumer_tab{width:480px; height:auto;  border: solid 1px black; float: left;border-bottom:none}
+.rowa{width: 480px; height: 30px; float: left; border-bottom: solid black 1px;}
+.rowb{width: 480px; height: 30px; float: left;border-bottom: 1px black solid; }
+.t1{width: 75px; height: 30px; float: left; margin-left: 20px;overflow: hidden; text-overflow: ellipsis; white-space: nowrap}
+.order_inquire{width: 500px;
+height: 150px;
+margin-left: 300px; font-size: 17px}
+.table_order{width: 800px; height: auto; float: left;}
+.costumer_table{width: 480px;
+    height: auto;
+    margin-top: 50px;
+    margin-left: -130px;
+    float: left;}
+.order_message{width:950px;
+    height: auto;
+    margin-left: 70px;
+    margin-top: 30px;
+    float: left;}
+.userbill{width: 400px; height: auto; background-color: white; float: left;border:rgba(161,136,73,0.25) solid 1px; margin-left: 70px}
+.rowc{width: 400px; height: 50px; float: left; line-height: 50px; font-size: 17px; border-bottom: rgba(161,140,26,0.22) 1px dashed;
+    margin-left: 0px; margin-right: 0px;}
+.ro1{overflow: hidden; text-overflow:ellipsis; width:82px;float: left;  margin-top: 5px; margin-left: 10px}
+.ro2{overflow: hidden; text-overflow:ellipsis; width:82px;float: right; margin-left: 10px; margin-top: 5px;}
+.tijiaoorder{width: 100px; height: 40px; background: none; background-color: rgba(161,86,94,0.16); float:right; margin-top: 0px;}
+.order_main{width: 950px; height: auto; float: left; margin-top:30px;margin-left: -80px;}
+.zhangdan{width: 400px; height: auto; background-color: white; margin-top:30px; float: left; margin-left: 25px}
+
+.menu_message{width: 900px; height:  auto; float: left;}
+.menu_inquire{width: 500px; height: 50px; float: left; margin-left: 350px ; margin-top: 60px;}
+.menu_main{width:800px; height: auto; float: left; margin-top: 30px;  }
+.menu_table{width: 600px; height: auto; float: left;  margin-left: 40px; margin-top: 10px;}
+.madd{float: right}
+.menu_add{width:620px; height: auto; float: left; margin-top: 30px; margin-left:150px;}
+.aaab{}
+.t11{}
+.t12{
+}
+.t13{}
+.t14{}
+.new_name0{white-space:nowrap;overflow:hidden;text-overflow : ellipsis; border: none;width: 80px;height: 25px; line-height: 25px; margin-left: 15px}
+.new0{    width: 80px;
+    float: right;
+    margin-top: -20px;
+    margin-right: -5px;
+}
+.table_order0{width: 80px; float: left;}
+.rownew{width:490px; height: 25px; border-bottom: solid 1px black; float: left}
+.aa{}
+.abc{margin-left: 20px;}
+.boss_inquire{width: 500px; height: 300px; margin-top: 50px; margin-left:300px; float: left}
+.boss_message{width: 900px; height: auto; float: left; margin-left: 30px;}
+.employ0{
+
+}
+.employ2{margin-top: 20px;
+    margin-left: 30px;}
+.employ1{    margin-top: 20px;
+    margin-left: 100px;
+    width: 80px;
+}
+.employ_main{    background-color: transparent;
+    width: 330px;
+    height: auto;
+    float: left;
+    margin-top: -100px;
+    margin-left: 250px;
+    border: black 1px solid; border-bottom: none;
+}
+.emp1{ width: 330px; height: 30px;border-bottom: 1px black solid; float: left}
+.emp10{width: 80px;  float: left ; margin-left: 28px}
+.emp2{width: 330px;  float: left ;height: 30px;border-bottom: 1px black solid;}
+.emp20{    width: 75px; float: left; margin-left: 30px;white-space:nowrap;overflow:hidden;text-overflow : ellipsis;
+}
+.seara{margin-left: 20px; margin-top: 15px;}
+.searchall{width: 70px ; margin-top: 15px; margin-left: 80px;}
+.newbottn0{}
+.b1{margin-left: 20px;
+    width: 20px;
+    height: 26px;
+    float: left;}
+.newc{width: 20px;}
+.bottom_pickup{width: 20px; margin-left: 10px; float: left}
+.new_name1{ margin-left: 10px; float: left}
+.new_mame0{float: left; margin-left: 10px;}
+.madd{margin-left: 40px;
+    float: left;
+    width: 50px;
+   }
+.menu-search{
+}
+.emp2a{margin-left: 33px;
+    float: left;}
+.ok0{margin-left: 10px;
+    float: left;}
+.a0{width: 82px; float: left; margin-left: 7px;}
+.newad{width:50px; }
+.abc{width: 53px; float: left}
+.a1a{width: 50px;
+    float: left;
+    margin-left: 30px;}
+.new{}
+.tablenamed{}
+.foodzhonglei{    width: 901px;
+    height: auto;
+    /*border: solid 1px rgba(161,116,75,0.35);*/
+    border-bottom: none;
+    border-right: none;
+    margin-left: 20px;
+background-color:rgba(161,49,52,0.03)
+}
+.lei{width: 100px;
+height: 40px;
+float: left;
+overflow: hidden;
+text-overflow: ellipsis;
+text-align: center;
+line-height: 40px;
+    white-space:nowrap;
+    font-size: 16px;
+/*border-bottom: 1px solid rgba(161,116,75,0.35);
+border-right: 1px solid rgba(161,116,75,0.35);
+    float: left;*/
+}
+.lei:hover{background:rgba(161,49,52,0.17)}
+.aa10{font-size: 20px}
+.imglei{float:  right; width: 10px; height: 10px;}
+.save{background-color: rgba(161,7,30,0.28); border: none}
+.lb{width: 250px; height: 500px; float: left}
+.ri{    width: 100%;
+    position: relative;
+    height: 800px;
+}
+.lb{width:250px; height:500px; float:left}
